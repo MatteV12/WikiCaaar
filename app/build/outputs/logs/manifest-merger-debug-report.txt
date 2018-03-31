@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\299db61eb40db256c23e3b9f328d7137\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\b37f64a976beaf98f6a5fe4674661a63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\c6f118065105710b3b7d0dd0dc2aa3b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\14f120767ae9bc1a3f8bd46303eeeaed\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\ebb90d54f143f80570c32b5e1010fb90\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f7d631030ee7f01b3fc8ee5c2483d201\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.paging:runtime:1.0.0-alpha7] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha7.aar\70bb81283644bee9fb339447c5279634\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\922a39ebfde7fd5f963d0dc617a2b493\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\15859ecefcb5d6715447c3ec9f8001e3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9e3f8e9a4bd8ddc1b9dfc3c3ee83288b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\7c86638fc1fa027e3f469e7d1bce321d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\abf453146725b9fe054f48d641900f0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\c8d83407f12b7abf3176c0314018df76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\f49e344f5e3fcf4b1af973a00c803a79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1658002f185634b8cf6e8dc08d09de26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\d5457125894bd623aebc463e0afd4e52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\03d69940a4e80db255687e2d9c0da9e7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9f28bda41149015f435687ca30a52511\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\98f1c51e4ea43e8da372a50937274092\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\01c52fc566e44d08380bbd18e60e075f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\57fcfea6f641d0bbad91c7b4f36d05c8\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\61a6c8e075f71e4e0332a90f5a01d486\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\14f120767ae9bc1a3f8bd46303eeeaed\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\14f120767ae9bc1a3f8bd46303eeeaed\AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:10:9-40
+activity#best.myapplication.MainActivity
+ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\299db61eb40db256c23e3b9f328d7137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\299db61eb40db256c23e3b9f328d7137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\b37f64a976beaf98f6a5fe4674661a63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\b37f64a976beaf98f6a5fe4674661a63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\c6f118065105710b3b7d0dd0dc2aa3b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\c6f118065105710b3b7d0dd0dc2aa3b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\14f120767ae9bc1a3f8bd46303eeeaed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\14f120767ae9bc1a3f8bd46303eeeaed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\ebb90d54f143f80570c32b5e1010fb90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\ebb90d54f143f80570c32b5e1010fb90\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f7d631030ee7f01b3fc8ee5c2483d201\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\f7d631030ee7f01b3fc8ee5c2483d201\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.0-alpha7] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha7.aar\70bb81283644bee9fb339447c5279634\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.0-alpha7] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha7.aar\70bb81283644bee9fb339447c5279634\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\922a39ebfde7fd5f963d0dc617a2b493\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\922a39ebfde7fd5f963d0dc617a2b493\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\15859ecefcb5d6715447c3ec9f8001e3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\15859ecefcb5d6715447c3ec9f8001e3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9e3f8e9a4bd8ddc1b9dfc3c3ee83288b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\9e3f8e9a4bd8ddc1b9dfc3c3ee83288b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\7c86638fc1fa027e3f469e7d1bce321d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\7c86638fc1fa027e3f469e7d1bce321d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\abf453146725b9fe054f48d641900f0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\abf453146725b9fe054f48d641900f0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\c8d83407f12b7abf3176c0314018df76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\c8d83407f12b7abf3176c0314018df76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\f49e344f5e3fcf4b1af973a00c803a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\f49e344f5e3fcf4b1af973a00c803a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1658002f185634b8cf6e8dc08d09de26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\1658002f185634b8cf6e8dc08d09de26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\d5457125894bd623aebc463e0afd4e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\d5457125894bd623aebc463e0afd4e52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\03d69940a4e80db255687e2d9c0da9e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\03d69940a4e80db255687e2d9c0da9e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9f28bda41149015f435687ca30a52511\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\9f28bda41149015f435687ca30a52511\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\98f1c51e4ea43e8da372a50937274092\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\98f1c51e4ea43e8da372a50937274092\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\01c52fc566e44d08380bbd18e60e075f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\01c52fc566e44d08380bbd18e60e075f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\57fcfea6f641d0bbad91c7b4f36d05c8\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\57fcfea6f641d0bbad91c7b4f36d05c8\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\61a6c8e075f71e4e0332a90f5a01d486\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\61a6c8e075f71e4e0332a90f5a01d486\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\matti\Desktop\WiKi_Car\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\14f120767ae9bc1a3f8bd46303eeeaed\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\14f120767ae9bc1a3f8bd46303eeeaed\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\14f120767ae9bc1a3f8bd46303eeeaed\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\14f120767ae9bc1a3f8bd46303eeeaed\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\matti\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\14f120767ae9bc1a3f8bd46303eeeaed\AndroidManifest.xml:24:13-83

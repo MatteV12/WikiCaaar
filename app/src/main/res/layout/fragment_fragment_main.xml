@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="best.myapplication.FragmentMain">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="495dp"
+        android:fontFamily="casual"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:text="Fatta da: \nMatteo Cinquantini\nGabriel Laklaai\nAlessia Bartolini" />
+</FrameLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WiKi Car</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_auto">AutoActivity</string>
+    <string name="title_activity_moto">MotoActivity</string>
+    <string name="title_activity_scooter">ScooterActivity</string>
+    <string name="title_activity_camion">CamionActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

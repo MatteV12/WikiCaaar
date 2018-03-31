@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\matti\\Documents\\WiKi_Car\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_camion_24dp.xml",
+        "source": "C:\\Users\\matti\\Documents\\WiKi_Car\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_camion_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\matti\\Documents\\WiKi_Car\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_motorcycle_24dp.xml",
+        "source": "C:\\Users\\matti\\Documents\\WiKi_Car\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_motorcycle_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\matti\\Documents\\WiKi_Car\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_car_24dp.xml",
+        "source": "C:\\Users\\matti\\Documents\\WiKi_Car\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_car_24dp.xml"
+    }
+]
