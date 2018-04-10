@@ -4,17 +4,7 @@
             "outputFile": "C:\\Users\\matti\\Desktop\\WiKi_Car\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\matti\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\b37f64a976beaf98f6a5fe4674661a63\\res\\values-ta\\values-ta.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,219,324,439,528,635,761,839,916,998,1100,1204,1301,1411,1513,1620,1777,1877",
-                        "endColumns": "113,104,114,88,106,125,77,76,81,101,103,96,109,101,106,156,99,79",
-                        "endOffsets": "214,319,434,523,630,756,834,911,993,1095,1199,1296,1406,1508,1615,1772,1872,1952"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\matti\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\03d69940a4e80db255687e2d9c0da9e7\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\matti\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\5595512b07cf35c03e460b2687778cae\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -29,37 +19,15 @@
                         "endColumns": "100",
                         "endOffsets": "2053"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\matti\\Documents\\WiKi_Car\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
-            "map": [
+                },
                 {
-                    "source": "C:\\Users\\matti\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\b733750ab8e5cc4d80e401a70f5eeec8\\res\\values-ta\\values-ta.xml",
+                    "source": "C:\\Users\\matti\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\dce548d42451d5f219643e351ecbc745\\res\\values-ta\\values-ta.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
                         "startOffsets": "105,219,324,439,528,635,761,839,916,998,1100,1204,1301,1411,1513,1620,1777,1877",
                         "endColumns": "113,104,114,88,106,125,77,76,81,101,103,96,109,101,106,156,99,79",
                         "endOffsets": "214,319,434,523,630,756,834,911,993,1095,1199,1296,1406,1508,1615,1772,1872,1952"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\matti\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\9ada62a86a11900df2ddecfae8b910da\\res\\values-ta\\values-ta.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1957",
-                        "endColumns": "100",
-                        "endOffsets": "2053"
                     }
                 }
             ]

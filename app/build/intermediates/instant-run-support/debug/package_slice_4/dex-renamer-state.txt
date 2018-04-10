@@ -1,4 +1,0 @@
-#Fri Dec 29 12:20:57 CET 2017
-base.0=C\:\\Users\\matti\\Documents\\WiKi_Car\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
-path.0=classes.dex
-renamed.0=classes.dex

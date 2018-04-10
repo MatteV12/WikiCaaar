@@ -1,5 +1,6 @@
 package best.myapplication;
 
+
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
@@ -30,7 +31,6 @@ public class MainActivity extends AppCompatActivity
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
 
 
 
@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         }
-        else
+       else
         {
             Intent intent= new Intent (Intent.ACTION_MAIN);
             intent.addCategory(Intent.CATEGORY_HOME);
@@ -76,6 +76,8 @@ public class MainActivity extends AppCompatActivity
             startActivity(intent);
         }
     }
+
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
