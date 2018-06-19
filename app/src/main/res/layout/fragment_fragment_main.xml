@@ -13,5 +13,5 @@
         android:fontFamily="casual"
         android:textStyle="bold"
         android:textSize="30dp"
-        android:text="Fatta da: \nMatteo Cinquantini\nGabriel Laklaai\nAlessia Bartolini" />
+        android:text="Fatta da: \nMatteo Cinquantini" />
 </FrameLayout>
